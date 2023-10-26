@@ -1,5 +1,7 @@
 # Project-ATM-Interface
 An ATM interface having details of balance, withdrawn and deposit amount
+
+
 import time
 
 print("Please insert your CARD")
@@ -43,3 +45,8 @@ if pin == password:
     
 else:
     print("Wrong Pin, Please TRY AGAIN! ")
+
+
+
+
+    
